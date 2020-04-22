@@ -6,23 +6,13 @@
 
 ### Este documento contém materiais recomendados pela equipe de desenvolvimento da mendelics
 
-# Overview
+# Sumário
 
-1. [Bioinformatics](#bioinformatics)
-
-
-## Bioinformatics
-
-### Sumário
-
-1. [Biologia molecular](#biologia-molecular)
-1. [Genética mendeliana](#genética-mendeliana)
-1. [Genética Humana](#genética-humana)
+1. [Biologia](#biologia)
 1. [Bioinformática](#bioinformática)
+1. [MOCC](#mocc)
 
-## Biologia molecular
-
-Básico:
+## Biologia
 
 - DNA e sua estrutura
 
@@ -32,7 +22,16 @@ Básico:
 ](https://www.youtube.com/watch?v=itsb2SqR-R0)
     - [DNA | Biomolecules | MCAT | Khan Academy
 ](https://youtu.be/AmOO4j0E408)
+    - [Classical genetics](https://www.khanacademy.org/science/high-school-biology/hs-classical-genetics)
 
-Mais avançado:
+## Bioinformática
 
-Coming soon...
+- Pipelines
+    - [GATK workflows
+](https://github.com/gatk-workflows/)
+        - [gatk4-genome-processing-pipeline
+](https://github.com/gatk-workflows/gatk4-genome-processing-pipeline)
+
+## MOCC
+
+- [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals)
