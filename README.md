@@ -10,7 +10,7 @@
 
 1. [Biologia](#biologia)
 1. [Bioinformática](#bioinformática)
-1. [MOCC](#mocc)
+1. [MOOC](#mooc)
 
 ## Biologia
 
@@ -32,6 +32,6 @@
         - [gatk4-genome-processing-pipeline
 ](https://github.com/gatk-workflows/gatk4-genome-processing-pipeline)
 
-## MOCC
+## MOOC
 
 - [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals)
