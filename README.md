@@ -2,7 +2,7 @@
 
 ![icon](icon.png)
 
-## Descrição
+# Descrição
 
 ### Este documento contém materiais recomendados pela equipe de desenvolvimento da Mendelics
 
