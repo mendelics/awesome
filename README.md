@@ -16,21 +16,16 @@
 
 - DNA e sua estrutura
 
-    - [DNA Structure and Replication: Crash Course Biology #10
-](https://www.youtube.com/watch?v=8kK2zwjRV0M)
-    - [DNA, Hot Pockets, & The Longest Word Ever: Crash Course Biology #11
-](https://www.youtube.com/watch?v=itsb2SqR-R0)
-    - [DNA | Biomolecules | MCAT | Khan Academy
-](https://youtu.be/AmOO4j0E408)
+    - [DNA Structure and Replication: Crash Course Biology #10](https://www.youtube.com/watch?v=8kK2zwjRV0M)
+    - [DNA, Hot Pockets, & The Longest Word Ever: Crash Course Biology #11](https://www.youtube.com/watch?v=itsb2SqR-R0)
+    - [DNA | Biomolecules | MCAT | Khan Academy](https://youtu.be/AmOO4j0E408)
     - [Classical genetics](https://www.khanacademy.org/science/high-school-biology/hs-classical-genetics)
 
 ## Bioinformática
 
 - Pipelines
-    - [GATK workflows
-](https://github.com/gatk-workflows/)
-        - [gatk4-genome-processing-pipeline
-](https://github.com/gatk-workflows/gatk4-genome-processing-pipeline)
+    - [GATK workflows](https://github.com/gatk-workflows/)
+        - [gatk4-genome-processing-pipeline](https://github.com/gatk-workflows/gatk4-genome-processing-pipeline)
 
 ## MOOC
 
