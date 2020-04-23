@@ -4,7 +4,7 @@
 
 # Descrição
 
-### Este documento contém materiais recomendados pela equipe de desenvolvimento da Mendelics
+Este documento contém materiais recomendados pela equipe de desenvolvimento da Mendelics
 
 # Sumário
 
