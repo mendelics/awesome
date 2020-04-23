@@ -24,7 +24,6 @@ Nota do Bola: "Um condensado de coisas que li sobre python e achei interessante.
 * [virtualenv: ambientes virtuais para desenvolvimento](https://pythonhelp.wordpress.com/2012/10/17/virtualenv-ambientes-virtuais-para-desenvolvimento/)
 * [Simplify Your Python Developer Environment](https://medium.com/homeaway-tech-blog/simplify-your-python-developer-environment-aba90f32dddb)
 
-
 </details>
 
 <details><summary>Testes</summary>
