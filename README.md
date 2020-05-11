@@ -36,7 +36,11 @@ Este documento contém materiais recomendados pela equipe de desenvolvimento da 
 
 ## Docker
 
+<details><summary>Boas práticas</summary>
+
 * [Dockerfile Best Practices](https://www.youtube.com/watch?v=JofsaZ3H1qM)
+
+</details>
 
 ## MOOC
 
