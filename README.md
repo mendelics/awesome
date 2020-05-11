@@ -10,6 +10,7 @@ Este documento contém materiais recomendados pela equipe de desenvolvimento da 
 
 1. [Bioinformática](#bioinformática)
 1. [Biologia](#biologia)
+1. [Docker](#docker)
 1. [MOOC](#mooc)
 1. [Python](#python)
 
@@ -32,6 +33,10 @@ Este documento contém materiais recomendados pela equipe de desenvolvimento da 
 * [Classical genetics](https://www.khanacademy.org/science/high-school-biology/hs-classical-genetics)
 
 </details>
+
+## Docker
+
+* [Dockerfile Best Practices](https://www.youtube.com/watch?v=JofsaZ3H1qM)
 
 ## MOOC
 
