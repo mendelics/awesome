@@ -10,6 +10,7 @@ Este documento contém materiais recomendados pela equipe de desenvolvimento da 
 
 1. [Bioinformática](#bioinformática)
 1. [Biologia](#biologia)
+1. [Docker](#docker)
 1. [MOOC](#mooc)
 1. [Python](#python)
 
@@ -30,6 +31,14 @@ Este documento contém materiais recomendados pela equipe de desenvolvimento da 
 * [DNA, Hot Pockets, & The Longest Word Ever: Crash Course Biology #11](https://www.youtube.com/watch?v=itsb2SqR-R0)
 * [DNA | Biomolecules | MCAT | Khan Academy](https://youtu.be/AmOO4j0E408)
 * [Classical genetics](https://www.khanacademy.org/science/high-school-biology/hs-classical-genetics)
+
+</details>
+
+## Docker
+
+<details><summary>Boas práticas</summary>
+
+* [Dockerfile Best Practices](https://www.youtube.com/watch?v=JofsaZ3H1qM)
 
 </details>
 
