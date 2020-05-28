@@ -13,6 +13,7 @@ Este documento contém materiais recomendados pela equipe de desenvolvimento da 
 1. [Docker](#docker)
 1. [MOOC](#mooc)
 1. [Python](#python)
+1. [Front-end](#python)
 
 ## Bioinformática
 
@@ -89,5 +90,54 @@ Este documento contém materiais recomendados pela equipe de desenvolvimento da 
 * [Overusing lambda expressions in Python](https://treyhunner.com/2018/09/stop-writing-lambda-expressions/)
 * [Understanding Python's 'yield' Keyword](https://stackabuse.com/understanding-pythons-yield-keyword/)
 * [How can I simplify repetitive if-elif statements?](https://stackoverflow.com/questions/61030617/how-can-i-simplify-repetitive-if-elif-statements)
+
+</details>
+
+## Front-end
+
+<details><summary>Ambiente de desenvolvimento</summary>
+
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [Debugging Javascript in Firefox](https://developer.mozilla.org/en-US/docs/Tools/Debugger)
+* [Debugging Javascript in Chrome](https://developers.google.com/web/tools/chrome-devtools/javascript)
+
+</details>
+
+
+<details><summary>Framework</summary>
+
+* [Angular 9+](https://angular.io/)
+* [Ionic Framework](https://ionicframework.com/docs)
+
+</details>
+
+
+<details><summary>Design system</summary>
+
+* [Material Design](https://material.io/)
+* [Angular Material Design](https://material.angular.io/)
+
+</details>
+
+
+<details><summary>Testes</summary>
+
+* [Test Angular](https://angular.io/guide/testing#component-test-basics)
+* [Test Ionic](https://ionicframework.com/docs/angular/testing)
+* [Jest - JavaScript Testing Framework](https://jestjs.io/)
+
+
+</details>
+
+
+<details><summary>Dicas gerais</summary>
+
+* [Angular - The Complete Guide (2020 Edition)](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
+* [TypeScript in 5 minutes](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
+* [Traversy Media - Web Development Courses](https://www.youtube.com/user/TechGuyWeb)
+* [Guides to CSS](https://css-tricks.com/guides/)
+* [Browser support for CSS](https://caniuse.com/)
+* [Debugging CSS in Firefox](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Debugging_CSS)
+* [Debugging CSS in Chrome](https://developers.google.com/web/tools/chrome-devtools/css)
 
 </details>
